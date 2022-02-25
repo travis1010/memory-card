@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid black;
+  padding: 5px;
+  height: 232px;
+  width: 210px;
+  border-radius: 8px;
+  cursor: pointer;
+  background: linear-gradient(#AE6B47, #814728);
+}
+
+.card img {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 5px;
+}
+
+.name {
+  font-family: 'Akaya Telivigala', cursive;
+  font-size: 20px;
+  background-color: antiquewhite;
+  padding: 0px 12px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
