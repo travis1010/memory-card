@@ -55,7 +55,6 @@ export default function App() {
   }
 
   useEffect(() => {
-    console.log(alreadyPicked);
     setScore(alreadyPicked.length);
     if(alreadyPicked.length === cards.length) {
       displayNotification('You Win!')
