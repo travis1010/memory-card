@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61a73a33.css",
+    "main.js": "/static/js/main.61702b0f.js",
+    "static/media/whippet.png": "/static/media/whippet.4b0c578e446b21b77b7f.png",
+    "static/media/ape.png": "/static/media/ape.e7b67ab6d260d971e58a.png",
+    "static/media/archangel.png": "/static/media/archangel.d065e1ebfdb629021a1b.png",
+    "static/media/teebird.png": "/static/media/teebird.a135ce82336138c87b9f.png",
+    "static/media/roc.png": "/static/media/roc.7ee16a006b8288f3d7bc.png",
+    "static/media/firebird.png": "/static/media/firebird.3beddd94913db8f93684.png",
+    "static/media/skeeter.png": "/static/media/skeeter.61b4627029c1db9747d0.png",
+    "static/media/cheetah.png": "/static/media/cheetah.5a6f8a55b6a560bb8c04.png",
+    "static/media/wraith.png": "/static/media/wraith.20741df1f43c19a92c82.png",
+    "static/media/eagle.png": "/static/media/eagle.66d5c045ce7600fd8437.png",
+    "static/media/sidewinder.png": "/static/media/sidewinder.136c954c2752b8031607.png",
+    "static/media/shark.png": "/static/media/shark.5f6b575ea9093e33cbf9.png",
+    "index.html": "/index.html",
+    "main.61a73a33.css.map": "/static/css/main.61a73a33.css.map",
+    "main.61702b0f.js.map": "/static/js/main.61702b0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61a73a33.css",
+    "static/js/main.61702b0f.js"
+  ]
+}
