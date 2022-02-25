@@ -40,5 +40,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "homepage": "https://travis1010.github.io/memory-card/"
 }
